@@ -15,6 +15,10 @@
         "icon": "https://img.icons8.com/?size=48&id=22813&format=png&color=000000"
     },
     {
+        "name": "kubernetes",
+        "icon": "https://img.icons8.com/?size=48&id=cvzmaEA4kC0o&format=png&color=000000"
+    },
+    {
         "name": "AWS",
         "icon": "https://img.icons8.com/color/48/000000/amazon-web-services.png"
     },
