@@ -1,7 +1,7 @@
 ## Portfolio-Website
 Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 
-<a href="https://chaitanya-meesala-portfolio.netlify.app/" target="_blank">**Visit Now** 🚀</a>
+<a href="https://chaitanya-meesala.netlify.app/" target="_blank">**Visit Now** 🚀</a>
 
 
 ## 📌 Tech Stack
