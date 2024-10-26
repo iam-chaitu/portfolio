@@ -12,7 +12,7 @@ Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 
 
 ## 📌 Sneak Peek of Main Page 🙈 :
-![mockup720](https://user-images.githubusercontent.com/64949957/124947013-1f682080-e02d-11eb-977e-df3bbd4fa838.png)
+![mockup720](![image](https://github.com/user-attachments/assets/f99a12de-dc46-4234-a9b8-cad9ae8a74c5)
 ![ss](https://user-images.githubusercontent.com/64949957/159113640-d92665a8-f614-42b3-8456-66b97fc2e651.png)
 
 
