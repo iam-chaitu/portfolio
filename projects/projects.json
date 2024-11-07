@@ -30,7 +30,16 @@
     }
   },
 
-
+  {
+    "name": "Image-pixelater-AWS-project",
+    "desc": "Event-Driven Image Processing Pipeline with AWS Lambda and S3",
+    "image": "imgaws",
+    "category": "cicd",
+    "links": {
+      "view": "https://www.linkedin.com/posts/mvkchaitanya_devsecops-cicd-jenkins-activity-7243946485719916546-UM1i?utm_source=share&utm_medium=member_desktop",
+      "code": "https://github.com/iam-chaitu/DevSecOps-Starbucks.git"
+    }
+  },
 
   {
     "name": "SPPU Engg Prep",
