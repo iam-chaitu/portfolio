@@ -34,23 +34,14 @@
     "name": "Image-pixelater-AWS-project",
     "desc": "Event-Driven Image Processing Pipeline with AWS Lambda and S3",
     "image": "imgaws",
-    "category": "cicd",
+    "category": "AWS",
     "links": {
-      "view": "https://www.linkedin.com/posts/mvkchaitanya_devsecops-cicd-jenkins-activity-7243946485719916546-UM1i?utm_source=share&utm_medium=member_desktop",
-      "code": "https://github.com/iam-chaitu/DevSecOps-Starbucks.git"
+      "view": "https://www.linkedin.com/mvkchaitanya",
+      "code": "https://github.com/iam-chaitu/image-pixelater-aws-project"
     }
   },
 
-  {
-    "name": "SPPU Engg Prep",
-    "desc": "All in one SPPU Engineering resources. Built using Java, XML and Firebase.",
-    "image": "sppuprepandroid",
-    "category": "android",
-    "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com/jigar-sable/sppu-prep-android"
-    }
-  },
+
   {
     "name": "NewsBox Android",
     "desc": "Native android app built using Java, XML. Retrofit & Glide dependencies. Provides different category news.",
